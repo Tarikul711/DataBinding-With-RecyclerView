@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DataBindingWithRecyclerView</string>
+    <string name="flight_from_time">%1$s AM</string>
+    <string name="flight_to_time">%1$s PM</string>
+    <string name="flight_price">Price: %1$s </string>
+</resources>
